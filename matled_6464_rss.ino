@@ -46,7 +46,7 @@ IPAddress secondaryDNS(8, 8, 4, 4);
 /* 表示メッセージの情報元のURLリスト */
 const char *url[] = {
   //"https://rss-weather.yahoo.co.jp/rss/days/13.xml",
-  "https://rss-weather.yahoo.co.jp/rss/days/4610.xml",
+  //"https://rss-weather.yahoo.co.jp/rss/days/4610.xml",
   /* https://news.yahoo.co.jp/rss */
   "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
   "https://news.yahoo.co.jp/rss/topics/domestic.xml",
