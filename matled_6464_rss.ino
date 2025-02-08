@@ -638,7 +638,7 @@ void setup( void )
                            "LED_SLID",
                            0x2000,
                            NULL,
-                           configMAX_PRIORITIES,
+                           configMAX_PRIORITIES - 1,
                            &thand_slideTask,
                            0 );
 
